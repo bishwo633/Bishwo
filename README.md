@@ -23,7 +23,9 @@
 ### Certifications
 - Microsoft Certified Application Developer (MCAD)
 - Microsoft Certified DataBase Administrator (MCDBA)
+- RHCE (Red Hat Certified Engineer) Training
 - Primavera Project Planner
+- Online trainings as per job demand 
 
 ### Volunteering
 - Project Management and Software Development Specialist: Nepal Red Cross Society (in collaboration with KOICA Nepal)
