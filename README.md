@@ -1,4 +1,4 @@
-# Bishwo Mitra Adhikari
+# Bishwo Adhikari
 
 ## Engineering Manager || Solutions & Data Architect
 
